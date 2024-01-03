@@ -1,0 +1,23 @@
+Script started on 2023-10-06 19:23:03-04:00 [TERM="xterm-256color" TTY="/dev/pts/22" COLUMNS="80" LINES="24"]
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ date
+[?2004lFri Oct  6 07:23:06 PM EDT 2023
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ whoami
+[?2004lsterzout
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ pwd
+[?2004l/home/sterzout/courses/cs2211/Asn/asn2
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ ./[7mpower2_calculator.script[27mpower2_calculator.script[K[K[K[K[K[K[K
+[?2004lEnter an exponent: 5 7
+128
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ ./[7mpower2_calculator.script[27mpower2_calculator.script[K[K[K[K[K[K[K
+[?2004lEnter an exponent: 1
+2
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ ./[7mpower2_calculator.script[27mpower2_calculator.script[K[K[K[K[K[K[K
+[?2004lEnter an exponent: 0
+1
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ ./[7mpower2_calculator.script[27mpower2_calculator.script[K[K[K[K[K[K[K
+[?2004lEnter an exponent: 4
+16
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ exit
+[?2004lexit
+
+Script done on 2023-10-06 19:23:43-04:00 [COMMAND_EXIT_CODE="0"]

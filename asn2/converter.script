@@ -1,0 +1,106 @@
+Script started on 2023-10-06 19:15:13-04:00 [TERM="xterm-256color" TTY="/dev/pts/22" COLUMNS="80" LINES="24"]
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ date
+[?2004lFri Oct  6 07:15:18 PM EDT 2023
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ whoami
+[?2004lsterzout
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ wd[K[Kpwd
+[?2004l/home/sterzout/courses/cs2211/Asn/asn2
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ ./converter
+[?2004l1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 1
+C for conversion from Celsius to Fahrenheit
+F for conversion from Fahrenheit to Celsius
+For any other character, repeat this case: c
+Degrees Number: 12
+Your degrees from Celsius to Farenheit is 53.60 F
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 1
+C for conversion from Celsius to Fahrenheit
+F for conversion from Fahrenheit to Celsius
+For any other character, repeat this case: f
+Degrees Number: 12 5
+Your degrees from Farenheit to Celsius is -9.44 C
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 2
+C for conversion from Centimeters to Inches
+I for conversion from Inches to Centimeters
+For any other character, repeat this case: c
+Length Number: 32
+Your length from Centimeters to Inches is 12.60 inches
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 2
+C for conversion from Centimeters to Inches
+I for conversion from Inches to Centimeters
+For any other character, repeat this case: i
+Length Number: 4
+Your length from Inches to Centimeters is 10.16 cm
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 3
+K for conversion from Kilometers to Miles
+M for conversion from Miles to Kilometers
+For any other character, repeat this case: k
+Kilometers Number: 1
+Your conversion from Kilometers to Miles is 0.62 miles
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 3
+K for conversion from Kilometers to Miles
+M for conversion from Miles to Kilometers
+For any other character, repeat this case: g m
+Miles Number: 2
+Your conversion from Miles to Kilometers is 3.22 km
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 4
+G for conversion from Gallons to Liters
+L for conversion from Liters to Gallons
+For any other character, repeat this case: g
+Gallons Number: 1
+Your conversion from Gallons to Liters is 3.79 liters
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 4
+G for conversion from Gallons to Liters
+L for conversion from Liters to Gallons
+For any other character, repeat this case: l
+Liters Number: 1
+Your conversion from Liters to Gallons is 0.26 gallons
+1 for conversion between Celsius and Fahrenheit 
+2 for conversion between Centimetre and Inch
+3 for conversion between Kilometer and Mile
+4 for conversion between Gallon and Liter
+0 for quit
+Please Enter A Integer: 0
+]0;sterzout@compute:~/courses/cs2211/Asn/asn2[?2004h[sterzout@compute asn2]$ exit
+[?2004lexit
+
+Script done on 2023-10-06 19:16:11-04:00 [COMMAND_EXIT_CODE="0"]
